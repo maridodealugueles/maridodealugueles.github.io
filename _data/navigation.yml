@@ -1,0 +1,14 @@
+- name: Destaques
+  link: /
+- name: Alvenaria
+  link: alvenaria.html
+- name: Rede Elétrica
+  link: redeeletrica.html
+- name: Hidráulica
+  link: hidraulica.html
+- name: Pintura
+  link: pintura.html
+# - name: Blog
+#   link: blog.html
+- name: Sobre
+  link: about.html

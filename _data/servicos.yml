@@ -1,0 +1,49 @@
+- name: Alvenaria
+  link: /alvenaria.html
+  resumo: Construção e reforma de pisos de cimento, muros, paredes, rebocos, assentamento de porcelanato, cerâmica retificada e comum, rejuntes, colocação de manta para impermeabilização, conserto de infiltrações, vazamentos em telhados, e reparos em geral.
+  subitens: 
+    - tituloSubitem: Muros e Paredes de Alvenaria
+      resumoSubitem: Os muros e as paredes garantem segurança, privacidade e embelezam as fachadas de imóveis. Portanto, sua construção e reparos precisa ser feita por profissionais qualificados e experientes.
+      linkSubitem: /muros-e-paredes-de-alvenaria.html
+    - tituloSubitem: Muro e Revestimento
+      resumoSubitem: Construção de muros e revestimentos para proteção e embelezamento. 
+      linkSubitem: /muro-e-revestimento.html
+- name: Rede Elétrica
+  link: /redeeletrica.html
+  resumo: Instalação e reparo de tomadas, interruptores, lâmpadas, disjuntores, passagem de fiações, chuveiros, ventiladores de teto, sensores de presença e problemas da rede elétrica de BAIXA TENSÃO.
+  subitens: 
+    - tituloSubitem: Instalação e Reparo de Tomadas
+      resumoSubitem: Instalação e troca de tomadas com análise de capacidade total e individual dos pontos de energia para o correto dimensionamento das respectivas tomadas.
+      linkSubitem: /instalacao-e-reparo-de-tomadas.html
+    - tituloSubitem: Planejamento, Instalação e Troca de Fiação
+      resumoSubitem: A fiação envelhece e perde suas propriedades isolantes que demandam reparo. O momento da troca da fiação também é a oportunidade para verificar se a instalação atende aos critérios e normas de qualidade.
+      linkSubitem: /planejamento-instalacao-e-troca-de-fiacao.html
+    - tituloSubitem: Instalação e Reparo de Chuveiros e Duchas
+      resumoSubitem: Instalação e reparo de chuveiros e duchas, troca de resistência, ajustes da vazão de água, escoamento, conserto de vazamentos, entre outros.
+      linkSubitem: /instalacao-e-reparo-de-chuveiros-e-duchas.html
+- name: Hidráulica
+  link: /hidraulica.html
+  resumo: Instalação hidráulica em geral, reparo em vazamentos, troca de reparo de caixas de descarga, reparos em válvulas de descarga em geral.
+  subitens: 
+    - tituloSubitem: Instalações Hidráulicas
+      resumoSubitem: O encanamento lida com o fornecimento de água para todos os cômodos de sua casa principalmente cozinha, banheiro e ligação com o fornecimento geral.
+      linkSubitem: /instalacoes-hidraulicas.html
+    - tituloSubitem: Instalação e reparo de registros hidráulicos
+      resumoSubitem: O Marido de Aluguel ES conta com profissionais capacitados com experiência na instalação e troca de registros hidráulicos.
+      linkSubitem: /instalacao-e-reparo-de-registros-hidraulicos.html
+    - tituloSubitem: Localização e Conserto de Vazamentos
+      resumoSubitem: Problemas com vazamentos são comuns e podem causar grandes prejuízos financeiros e até risco para sua segurança.
+      linkSubitem: /localizacao-e-conserto-de-vazamentos.html
+    - tituloSubitem: Reparo da válvula Hydra
+      resumoSubitem: O Marido de Aluguel ES tem experiência com a instalação e reparos de Válvulas Hydra.
+      linkSubitem: /reparo-da-valvula-hydra.html
+    - tituloSubitem: Limpeza de Caixa Dágua
+      resumoSubitem: O Marido de Aluguel ES realiza a limpeza da sua Caixa D'água para garantir o fornecimento de água e a saúde de sua família.
+      linkSubitem: /limpeza-de-caixa-dagua.html
+- name: Pintura
+  link: /pintura.html
+  resumo: Textura, pinturas parciais ou totais em casas e apartamentos, muros, portões de madeira e metal.
+  subitens: 
+    - tituloSubitem: Pintura Residencial
+      resumoSubitem: Textura, pinturas parciais ou totais em casas e apartamentos, muros, portões de madeira e metal.
+      linkSubitem: /pintura-residencial.html

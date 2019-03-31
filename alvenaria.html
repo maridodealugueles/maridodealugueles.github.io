@@ -1,0 +1,48 @@
+---
+layout: default
+titulo: Marido de Aluguel ES - Alvenaria
+resumo: O Marido de Aluguel ES conta com pedreiros, eletricistas, encanadores, pintores, marcineiros para reparos, manutenções, construção e reforma.
+---
+<div class="jumbotron">
+    
+    {% for item in site.data.servicos %}
+    {% if item.name == "Alvenaria" %}
+
+    <h1 class="display-4">{{ item.name }}</h1>
+    
+    <p class="lead">
+        {{ item.resumo }}
+    </p>
+
+    <a target="_blank" href="https://forms.gle/aoRcmtD9JKF45Rfx5" class="btn btn-primary btn-lg">Solicite um orçamento</a>
+
+    <hr class="my-4">
+    
+    <div class="row">
+    {% for subitem in item.subitens %}
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    <h3>
+                        {{ subitem.tituloSubitem }}
+                    </h3>
+                </div>
+                <div class="card-body">
+                    <p>
+                        {{ subitem.resumoSubitem }}
+                    </p>
+                    <!-- <a class="btn btn-primary " href="#" role="button">Veja Mais</a> -->
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+
+    {% endif %}
+    {% endfor %}
+
+    
+    
+
+
+</div>
